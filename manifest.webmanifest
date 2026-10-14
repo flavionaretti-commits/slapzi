@@ -1,0 +1,21 @@
+{
+  "name": "SLAPZI! — Lettore di indizi",
+  "short_name": "SLAPZI!",
+  "description": "Un lettore di indizi vocali per giocare insieme con le carte fisiche SLAPZI.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6ed",
+  "theme_color": "#d9ef1a",
+  "lang": "it",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
